@@ -1,8 +1,8 @@
-#Curso introdutório ao Git e GitHub do canal do Willian Justen
+# Curso de introdução ao Git e GitHub
 
 
 
-##Utilização de comandos e introdução ao github na prática
+## Utilização de comandos e introdução ao github na prática
 
 
 
