@@ -58,7 +58,9 @@ git show <hash>
 
 ## Desfazendo coisas com o reset
 
-1. Se um arquivo foi editado de forma incorreta e deseja-se resetar a alteração. Não funciona se o arquivo estiver em staged.
+1. Se um arquivo foi editado de forma incorreta e deseja-se resetar a alteração, usa-se o comando `git checkout`. 
+
+   OBS: Não funciona se o arquivo estiver em staged.
 
    ```git checkout <nomedoarquivo>```
 
@@ -85,14 +87,14 @@ git show <hash>
       
 
       OBS: A hash a ser utilizada é a anterior ao commit que se deseja resetar. Pois significa que a partir daquele ponto, tudo será resetado.
-
+   
       
 
 ## Criando repositório remoto no GitHub
 
 
 
-1. Acessar a plataforma do GitHub, criar um conta e depois criar um novo repositório passando um nome.
+1. Acessar a plataforma do GitHub, criar uma conta e depois criar um novo repositório passando um nome.
 
 
 
